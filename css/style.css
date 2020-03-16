@@ -8628,11 +8628,13 @@ h1, h2, h3, h4, h5,
         background: #3e64ff;
         color: #fff; }
 
-.ftco-about .img-about .img {
+.ftco-about .img-about {
   width: 100px;
   z-index: 0;
   position: relative; }
   .ftco-about .img-about .img {
+    max-width:230px;
+    max-height:230px;
     display: block;
     width: 100px;
     position: relative;
