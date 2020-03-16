@@ -8634,9 +8634,8 @@ h1, h2, h3, h4, h5,
   position: relative; }
   .ftco-about .img-about .img {
     display: block;
-    width: auto;
+    width: 100%;
     height: auto;
-    max-width:50%;
     position: relative;
     z-index: 1; }
 
