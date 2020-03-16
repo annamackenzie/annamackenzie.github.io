@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 20/03/2019 02:18
+    Creation date: 16/03/2020 18:16
     */
 
     @font-face {
@@ -37,18 +37,38 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-ideas:before { content: "\f100"; }
-.flaticon-flasks:before { content: "\f101"; }
-.flaticon-analysis:before { content: "\f102"; }
-.flaticon-ux-design:before { content: "\f103"; }
-.flaticon-web-design:before { content: "\f104"; }
-.flaticon-idea:before { content: "\f105"; }
-.flaticon-innovation:before { content: "\f106"; }
+    .flaticon-data:before { content: "\f100"; }
+.flaticon-dashboard:before { content: "\f101"; }
+.flaticon-school:before { content: "\f102"; }
+.flaticon-data-science:before { content: "\f103"; }
+.flaticon-chip:before { content: "\f104"; }
+.flaticon-monitor:before { content: "\f105"; }
+.flaticon-skills:before { content: "\f106"; }
+.flaticon-competence:before { content: "\f107"; }
+.flaticon-bet:before { content: "\f108"; }
+.flaticon-class:before { content: "\f109"; }
+.flaticon-diagram:before { content: "\f10a"; }
+.flaticon-racing-car:before { content: "\f10b"; }
+.flaticon-motorcycle:before { content: "\f10c"; }
+.flaticon-lacrosse-stick:before { content: "\f10d"; }
+.flaticon-fraud:before { content: "\f10e"; }
+.flaticon-speech-bubble:before { content: "\f10f"; }
+.flaticon-like:before { content: "\f110"; }
     
-    $font-Flaticon-ideas: "\f100";
-    $font-Flaticon-flasks: "\f101";
-    $font-Flaticon-analysis: "\f102";
-    $font-Flaticon-ux-design: "\f103";
-    $font-Flaticon-web-design: "\f104";
-    $font-Flaticon-idea: "\f105";
-    $font-Flaticon-innovation: "\f106";
+    $font-Flaticon-data: "\f100";
+    $font-Flaticon-dashboard: "\f101";
+    $font-Flaticon-school: "\f102";
+    $font-Flaticon-data-science: "\f103";
+    $font-Flaticon-chip: "\f104";
+    $font-Flaticon-monitor: "\f105";
+    $font-Flaticon-skills: "\f106";
+    $font-Flaticon-competence: "\f107";
+    $font-Flaticon-bet: "\f108";
+    $font-Flaticon-class: "\f109";
+    $font-Flaticon-diagram: "\f10a";
+    $font-Flaticon-racing-car: "\f10b";
+    $font-Flaticon-motorcycle: "\f10c";
+    $font-Flaticon-lacrosse-stick: "\f10d";
+    $font-Flaticon-fraud: "\f10e";
+    $font-Flaticon-speech-bubble: "\f10f";
+    $font-Flaticon-like: "\f110";
