@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 20/03/2019 02:18
+  	Creation date: 16/03/2020 18:16
   	*/
 
 @font-face {
@@ -30,10 +30,20 @@ font-style: normal;
 margin-left: 20px;
 }
 
-.flaticon-ideas:before { content: "\f100"; }
-.flaticon-flasks:before { content: "\f101"; }
-.flaticon-analysis:before { content: "\f102"; }
-.flaticon-ux-design:before { content: "\f103"; }
-.flaticon-web-design:before { content: "\f104"; }
-.flaticon-idea:before { content: "\f105"; }
-.flaticon-innovation:before { content: "\f106"; }
+.flaticon-data:before { content: "\f100"; }
+.flaticon-dashboard:before { content: "\f101"; }
+.flaticon-school:before { content: "\f102"; }
+.flaticon-data-science:before { content: "\f103"; }
+.flaticon-chip:before { content: "\f104"; }
+.flaticon-monitor:before { content: "\f105"; }
+.flaticon-skills:before { content: "\f106"; }
+.flaticon-competence:before { content: "\f107"; }
+.flaticon-bet:before { content: "\f108"; }
+.flaticon-class:before { content: "\f109"; }
+.flaticon-diagram:before { content: "\f10a"; }
+.flaticon-racing-car:before { content: "\f10b"; }
+.flaticon-motorcycle:before { content: "\f10c"; }
+.flaticon-lacrosse-stick:before { content: "\f10d"; }
+.flaticon-fraud:before { content: "\f10e"; }
+.flaticon-speech-bubble:before { content: "\f10f"; }
+.flaticon-like:before { content: "\f110"; }
