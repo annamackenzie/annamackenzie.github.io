@@ -8636,7 +8636,7 @@ h1, h2, h3, h4, h5,
     display: block;
     width: auto;
     height: auto;
-    max-width:100%;
+    max-width:50%;
     position: relative;
     z-index: 1; }
 
