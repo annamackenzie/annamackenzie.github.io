@@ -1,1 +1,1 @@
-# Anna Mackenzie - Junior Data Scientist
+# Anna Mackenzie - Data Scientist
